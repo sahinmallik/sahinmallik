@@ -57,8 +57,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=sahin&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://github.com/D3vd/Meme_Api" width="512px"/>
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/sahinmallik/github-profile-views-counter">
