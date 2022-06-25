@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif?raw=true" width="40px" />
-  𝐇𝐞𝐥𝐥𝐨, &lt;World/&gt;!
+  MySelf, &lt;SAHIN/&gt;!
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif?raw=true" width="24px">
 </h1>
 
