@@ -48,7 +48,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahinmallik&line=95bb72&point=24292e&area=true&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 
-<br/>1
+<br/>
 <br/>
 
 ## 🏆GitHub Trophies
