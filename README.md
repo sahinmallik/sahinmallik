@@ -44,14 +44,14 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=sahinmallik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <br/>
 
 ### 🔝 Top Contributed Repo
+<div align="center">
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sahinmallik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
-![Sahin's github activity graph](https://github-contributor-stats.vercel.app/api?username=sahinmallik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-    
+</div>    
 
 <br/>
 <br/>
