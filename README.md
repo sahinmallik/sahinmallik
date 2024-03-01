@@ -45,13 +45,14 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sahinmallik&line=95bb72&point=24292e&area=true&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🔝 Top Contributed Repo
+
+![Sahin's github activity graph](https://github-contributor-stats.vercel.app/api?username=sahinmallik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
     
 
 <br/>
 <br/>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sahinmallik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 <br/>
 
